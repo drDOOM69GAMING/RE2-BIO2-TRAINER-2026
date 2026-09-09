@@ -16,10 +16,11 @@ One toggle, unlimited health. Watch that bar never drop.
 
 - Windows 10 or Windows 11
 - Resident Evil 2 / BIOHAZARD RE2 - Steam PC version, 2026 build
-- **REFramework (Nightly)** - https://github.com/praydog/REFramework-nightly/releases - keeps the trainer valid as Capcom ships patches (grab the newest nightly before playing)
+- **REFramework (Nightly)** - https://github.com/praydog/REFramework-nightly/releases - extract **`dinput8.dll`** into the game folder (`<Steam>\steamapps\common\RE2R\`). Launch the game once so it creates its configs. Keeps the trainer valid as Capcom ships patches (grab the newest nightly before playing)
 
 ## Usage
 
+0. Make sure REFramework's `dinput8.dll` is in the game folder: `<Steam>\steamapps\common\RE2R\dinput8.dll`
 1. Launch the game and load into gameplay.
 2. Run `RE2-BIO2-TRAINER-2026.exe`.
 3. It attaches automatically. Press the button, **Numpad 1**, or **F1** to toggle Infinite Health.
