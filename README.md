@@ -11,18 +11,12 @@ One toggle, unlimited health. Watch that bar never drop.
 - **Infinite Health** - toggle in-game via the button, **Numpad 1**, or **F1**
 - **Audio feedback** - one *ding* = ON, triple *ding* = OFF
 - **Live activity log** - every memory read/write is shown in the app, no secrets
-- **No DLL injection** - nothing is injected into the game
-- **No external framework** - works without REFramework or any launcher
-- **No anticheat to worry about** - the game has none, so nothing gets flagged
-
-## Why? (the honest part)
-
-WeMOD used to be the place for this. Then they turned into a greedy tyrant - paywalling basics and shoving their launcher/framework in front of everything. This trainer is free, standalone, and does exactly one thing well. Enjoy.
 
 ## Requirements
 
 - Windows 10 or Windows 11
 - Resident Evil 2 / BIOHAZARD RE2 - Steam PC version, 2026 build
+- https://github.com/praydog/REFramework-nightly/releases
 
 ## Usage
 
