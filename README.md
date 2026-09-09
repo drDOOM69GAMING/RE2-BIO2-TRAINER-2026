@@ -16,7 +16,7 @@ One toggle, unlimited health. Watch that bar never drop.
 
 - Windows 10 or Windows 11
 - Resident Evil 2 / BIOHAZARD RE2 - Steam PC version, 2026 build
-- https://github.com/praydog/REFramework-nightly/releases
+- **REFramework (Nightly)** - https://github.com/praydog/REFramework-nightly/releases - keeps the trainer valid as Capcom ships patches (grab the newest nightly before playing)
 
 ## Usage
 
