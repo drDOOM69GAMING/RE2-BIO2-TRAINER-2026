@@ -1,5 +1,7 @@
 # RE2 BIO2 TRAINER 2026 (PC · Steam)
 
+<img width="480" height="720" alt="Screenshot 2026-09-09 041025" src="https://github.com/user-attachments/assets/e2b853c3-9a2b-42b9-940a-7d7565627ab0" />
+
 Infinite Health trainer for **Resident Evil 2 / BIOHAZARD RE2** - 2026 PC/Steam build.
 
 One toggle, unlimited health. Watch that bar never drop.
